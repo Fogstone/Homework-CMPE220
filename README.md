@@ -1,6 +1,6 @@
 This is the Python comparision graph for Native C++ implementation, BLAS, MKL and CUDA for matrix multiplication and vector addition.
 
-![image](https://github.com/Fogstone/Homework-CMPE220/assets/51188893/d0134a31-9c60-40a3-901f-d1d9e8f9ac65)
+![image](https://github.com/Fogstone/Homework-CMPE220/assets/51188893/bed28e2f-3408-4c7d-99d4-84fce4515488)
 
 This is the Python comparision graph for Softmax in C++ vs using Tensorflow along with CNN
 
